@@ -1,4 +1,4 @@
-![Alt text](screenshots/sreenshot1.png)
+![Alt text](screenshots/screenshot1.PNG)
 
 ![Alt text](screenshots/sreenshot2.png)
 
